@@ -46,3 +46,23 @@ for (int i = 0; i < len; i++) {
 ```
 
 ## 解题思路
+
+### 第一次解题误解
+
+首次解题，我直接误解为：返回去重后的数组即可。
+
+所以我给出的算法为：
+
+```python
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        s = set(nums)
+
+        nums.clear()
+        for n in s:
+            nums.append(n)
+
+        return len(nums)
+```
+
+这个算法有很严重的问题，就是通过 set 转化后，它的顺序是打乱的。当然，我们也可以直接增加。
