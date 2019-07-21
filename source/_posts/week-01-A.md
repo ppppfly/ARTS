@@ -1,8 +1,7 @@
 ---
-title: week 01
+title: week 01 Algorithm
 date: 2019-07-21 19:40:15
-excerpt: my_post_excerpt
-photos: [my_photo_url]
+photos: [/ARTS/images/week-1.jpg]
 ---
 
 # 从排序数组中删除重复项

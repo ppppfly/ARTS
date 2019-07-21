@@ -2,7 +2,6 @@
 layout: about
 title: 什么是 ARTS
 date: 2019-07-21 20:43:59
-tags:
 ---
 
 以下是 "耗子叔叔" 在 [知乎的回答](https://www.zhihu.com/question/301150832/answer/529809529)
@@ -22,7 +21,7 @@ tags:
 ## 高效学习
 其中，我还引用了一张学习金字塔
 
-![](/blog/images/study_pyramid.jpg)
+![](/ARTS/images/study_pyramid.jpg)
 
 我们可以看到，你听别人讲，或是自己看书，或是让别人演示给你，这些都不能让你真正获得学习能力，因为你是在被别人灌输，在听别人说。
 
