@@ -1,5 +1,5 @@
 ---
-title: week 01 Algorithm
+title: Week 01 Algorithm
 date: 2019-07-21 19:40:15
 photos: [/ARTS/images/week-1.jpg]
 ---
